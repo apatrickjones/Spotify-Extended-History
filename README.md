@@ -5,3 +5,4 @@ No but fr, you ever wanna see ur full spotify listen history? ur top songs? top 
 https://twitter.com/apatrickjones
 https://www.instagram.com/apatrickjones/
 https://www.facebook.com/profile.php?id=100003136330042
+https://www.twitch.tv/tractorscotch3500
