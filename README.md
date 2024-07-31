@@ -8,7 +8,7 @@ Downloading Extended Streaming History
 2. On the top right, click your profile picture, then "Account"
 3. Under Security and Privacy, click "Privacy Settings"
 4. Scroll down to Download your Data, then select "Extended Streaming History" and deselect everything else
-5. "Request Data", then wait about 2 or so weeks for your information to come in. It'll be emailed to you as a zip file, and may be fairly large
+5. "Request Data", then wait about 2 or so weeks for your information to come in. It'll be emailed to you as a zip file from noreply@spotify.com
 
 To run the app, just donwload this and open the file to show the GUI. Select the select the zip file, or extract the data and select all the "endsong_x.json" files, and it'll show your stats!
 
